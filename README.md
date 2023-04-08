@@ -1,6 +1,4 @@
-# **FlappyGA**
-
-## *Real-Time Multiplayer Browser Game with FPGA Control Input*
+# **FlappyGA** : *Real-Time Multiplayer Browser Game with FPGA Control Input*
 
 ## Description
 
